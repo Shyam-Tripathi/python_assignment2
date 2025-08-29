@@ -1,4 +1,4 @@
-# task 1
+# task1
 # Take input from the user.
 num = int(input("Enter an integer: "))
 
